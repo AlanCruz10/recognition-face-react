@@ -1,0 +1,27 @@
+.home-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px 0;
+  width: auto;
+  height: 80vh;
+}
+
+.webcam {
+  width: 100%;
+  max-width: 600px;
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+.modal-grup {
+  justify-content: center;
+  align-items: center;
+}
+
+.result-home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

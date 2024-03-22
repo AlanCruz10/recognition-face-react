@@ -1,0 +1,11 @@
+.container-modal {
+    width: 80%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 0;
+    height: 83vh;
+    background-color: #D9D9D9;
+    border-radius: 15px;
+    box-shadow: 4px 5px 6px rgba(0, 0, 0, 0.2);
+}
